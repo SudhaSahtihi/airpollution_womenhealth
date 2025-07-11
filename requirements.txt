@@ -1,1 +1,8 @@
+List of Python Libraries needed for this project
 
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+openpyxl
